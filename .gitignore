@@ -1,0 +1,32 @@
+# Unity 기본
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+MemoryCaptures/
+
+# OS, 에디터 관련
+.DS_Store
+.vs/
+.vscode/
+*.apk
+*.aab
+*.exe
+*.mp4
+*.mov
+*.zip
+*.rar
+*.7z
+Thumbs.db
+Desktop.ini
+
+# Git LFS 관련 대용량 포맷 제외
+*.psd
+*.fbx
+*.wav
+*.mp3
+*.blend
+*.png
