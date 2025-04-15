@@ -23,10 +23,11 @@ MemoryCaptures/
 Thumbs.db
 Desktop.ini
 
-# Git LFS 관련 대용량 포맷 제외
-*.psd
-*.fbx
-*.wav
-*.mp3
-*.blend
-*.png
+# Git LFS 관련 대용량 포맷은 커밋 금지 대신 Git LFS로 추적 권장
+# 아래 항목은 주석 처리해서 무시되지 않게 만듦
+# *.psd
+# *.fbx
+# *.wav
+# *.mp3
+# *.blend
+# *.png
